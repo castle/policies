@@ -14,7 +14,7 @@ You expressly consent to our collection, storage, use and disclosure of your per
 
 It may be possible for you to browse our websites without telling us who you are or revealing any information that enables us to directly identify you as an individual. However, you may lose anonymity once you give us personal information about you, and by doing so, you agree to the transfer and storage of that information to our servers and to the terms of this Policy. Our Services use cookies, and therefore use of the Services by you constitutes your acceptance of our use of cookies in accordance with this Policy.
 
-Automatically Collected Information: Our Clients place JavaScript code onto their Applications that enables the Service to collect information from their Users automatically. Our Clients have control over the JavaScript tag and may remove or disable it at any time. The information collected automatically via the Service includes information about their Users’ computers and other devices, such as: the types and number fonts installed, the types and number of fonts, the types and number of plugins installed, MIME types supported, version strings for Windows Media Player, Flash, PDF, VLC, SVG, Real Player, Shockwave, Silverlight, Java and QuickTime. The Service also automatically collects information about the device’s screen width, height and color depth, the operating system in place on the device, the user agent, the local time zone, and DST time zone.
+
 
 ## How we collect and use information
 
